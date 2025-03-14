@@ -88,8 +88,8 @@ const ThreeDCarousel = ({ images = [] }) => {
     ];
   
     return (
-      <div className=" min-h-screen p-4">
-        <div className="w-full max-w-[680px] h-[400px] mx-auto my-12 p-1">
+      <div className=" min-h-screen ">
+        <div className="w-full max-w-[680px]  mx-auto  p-1">
           <div 
             ref={stageRef}
             className="h-[325px] mt-4 ml-4 mr-2 text-gray-200 relative"
