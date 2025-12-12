@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+## Preiew
+### Normal Carousel
+<video controls src="Screen Recording 2025-12-12 at 12.00.25 PM.mov" title="Normal Carousel"></video>
+
 ## Getting Started
 
 First, run the development server:
