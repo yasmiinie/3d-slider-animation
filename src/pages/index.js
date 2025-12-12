@@ -27,6 +27,7 @@ export default function Home() {
     '/wilayas/alger.png',
     '/wilayas/alger.png',
     '/wilayas/alger.png',
+    
 
 
   ];
@@ -35,7 +36,7 @@ export default function Home() {
 <>
 <div>
   <h1>Rounded 3d  slider </h1>
-  <div className="min-h-screen   ">
+  <div className="min-h-screen pt-32  ">
   <ThreeDCarousel images={images} />
 
 </div>
